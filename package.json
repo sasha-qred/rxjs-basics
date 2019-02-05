@@ -1,0 +1,31 @@
+{
+  "name": "rxjs-basics",
+  "version": "0.0.0",
+  "scripts": {
+    "pdf": "shower pdf",
+    "serve": "shower serve",
+    "archive": "shower archive",
+    "prepare": "shower prepare",
+    "publish": "shower publish"
+  },
+  "bugs": {
+    "url": "https://github.com/sasha-qred/rxjs-basics/issues"
+  },
+  "license": "MIT",
+  "author": {
+    "name": "Sasha Verbilo",
+    "email": "sashaqred@ya.ru",
+    "url": "https://github.com/sasha-qred/"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/sasha-qred/rxjs-basics/"
+  },
+  "dependencies": {
+    "shower-core": "~2.1",
+    "shower-ribbon": "~3.1"
+  },
+  "devDependencies": {
+    "shower-cli": "~0.2"
+  }
+}
